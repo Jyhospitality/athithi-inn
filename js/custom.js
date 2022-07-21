@@ -52,7 +52,7 @@ $(function () {
             logo = $(".navbar .logo> img");
         if (bodyScroll > 100) {
             navbar.addClass("nav-scroll");
-            logo.attr('src', 'images/mob-logo.png');
+            logo.attr('src', 'images/mob-logo1.jpeg');
         } else {
             navbar.removeClass("nav-scroll");
             logo.attr('src', 'images/logo.png');
